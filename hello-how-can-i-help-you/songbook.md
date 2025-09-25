@@ -1,8 +1,7 @@
 # Hello, How Can I Help You Songbook
-# Título: Minha Primeira Música Registrada
+
 **Autor(es):** [Tito Gonzales / Fabricia Silveira]  
 **Data de criação:** 25/09/2025
-
 
 - [Hello, How Can I Help You](#hello-how-can-i-help-you)
 - [Insert Coin for Empathy](#insert-coin-for-empathy)
@@ -16,12 +15,10 @@
 - [Heart Firewall (403 Forbidden)](#heart-firewall-403-forbidden)
 - [Sandbox Love](#sandbox-love)
 
-
 # Hello, How Can I Help You
-# Título: Minha Primeira Música Registrada
+
 **Autor(es):** [Tito Gonzales / Fabricia Silveira]  
 **Data de criação:** 25/09/2025
-
 
 Down in old Alexandria, first-century sun,
 Heron drew lines in copper 'til the gears would run.
@@ -61,12 +58,10 @@ An ancient idea with a modern soul.
 Gears turn, glass burns, copper hearts keep time--
 Alexandria to now, on the blues-rock line.
 
-
 # Insert Coin for Empathy
-# Título: Minha Primeira Música Registrada
+
 **Autor(es):** [Tito Gonzales / Fabricia Silveira]  
 **Data de criação:** 25/09/2025
-
 
 Hello--how can I help you? Please deposit one doubt.
 My pressure reads "Drama High," hear the pistons shout;
@@ -102,12 +97,10 @@ Rolling through your blues on calibrated soul.
 (steam releases, gauges fall)
 Thanks for your feelings--please keep the receipt.
 
-
 # Pins & Wheels (User Error)
-# Título: Minha Primeira Música Registrada
+
 **Autor(es):** [Tito Gonzales / Fabricia Silveira]  
 **Data de criação:** 25/09/2025
-
 
 (SFX: gear-clicks, steam hiss)
 
@@ -144,12 +137,10 @@ Otherwise enjoy this scenic, smoking latch.
 
 Service note: next meltdown due at quarter past truth.
 
-
 # Insert Coin (Refund Denied)
-# Título: Minha Primeira Música Registrada
+
 **Autor(es):** [Tito Gonzales / Fabricia Silveira]  
 **Data de criação:** 25/09/2025
-
 
 (SFX: coin drop, steam hiss, neon sign flickers "COME BACK SOON, OK")
 
@@ -202,12 +193,10 @@ Come back soon, okay? (I won't even charge a ton.)
 
 "Client absent, longing present." Case closed--until you return.
 
-
 # Goggles Never Lie
-# Título: Minha Primeira Música Registrada
+
 **Autor(es):** [Tito Gonzales / Fabricia Silveira]  
 **Data de criação:** 25/09/2025
-
 
 (SFX: steam hiss, metal click)
 
@@ -245,12 +234,10 @@ Torque your heart to spec and prime the dream.
 (SFX: valve release, glass tap)
 End of inspection. Vision restored. Try not to trip over the facts.
 
-
 # Cognitive Drift
-# Título: Minha Primeira Música Registrada
+
 **Autor(es):** [Tito Gonzales / Fabricia Silveira]  
 **Data de criação:** 25/09/2025
-
 
 (SFX: steam hiss, metro chime, distant calliope)
 
@@ -299,12 +286,10 @@ If wonder feels heavy, let the rhythm take the seat.
 (SFX: valve release, metro doors ping)
 Next station: Clarity. Please exit through your dream.
 
-
 # Wind-Organ Customer Service
-# Título: Minha Primeira Música Registrada
+
 **Autor(es):** [Tito Gonzales / Fabricia Silveira]  
 **Data de criação:** 25/09/2025
-
 
 (SFX: valves open, gentle calliope swell)
 
@@ -351,12 +336,10 @@ We warranty the rhythm for ninety noisy weeks.
 **Human:** Five stars--your snark repaired the squeaks.
 **Brain:** Much obliged--next heartbreak, press "repeat."
 
-
 # Confusion Gauge (220V of Missing You)
-# Título: Minha Primeira Música Registrada
+
 **Autor(es):** [Tito Gonzales / Fabricia Silveira]  
 **Data de criação:** 25/09/2025
-
 
 (gear-clicks in three-against-four; soft steam hiss)
 
@@ -403,12 +386,10 @@ By the time it clears up, babe, it's yesterday.
 (long valve release, descending beeps)
 Status: confusion stabilized. Missing you: under review. Bring coffee and a better map next time.
 
-
 # Ticket 404 -- Cosmic Waiting Room
-# Título: Minha Primeira Música Registrada
+
 **Autor(es):** [Tito Gonzales / Fabricia Silveira]  
 **Data de criação:** 25/09/2025
-
 
 (elevator muzak in space, soft PBX beeps, gentle static)
 
@@ -463,12 +444,10 @@ Ticket 404--the one who answers is your love at the door.
 **Brain:** Case closed-in-progress.
 **Human (smiling):** I'll leave my number in the stars--call me when time has a minute.
 
-
 # Heart Firewall (403 Forbidden)
-# Título: Minha Primeira Música Registrada
+
 **Autor(es):** [Tito Gonzales / Fabricia Silveira]  
 **Data de criação:** 25/09/2025
-
 
 (SFX: keyboard clicks, soft relay, distant valve hiss)
 
@@ -531,12 +510,10 @@ Grant yourself permission--then knock like you mean it.
 (SFX: valve exhale, relay clack to idle)
 **Brain:** Incident resolved. Open a new ticket when your courage has a token.
 
-
 # Sandbox Love
-# Título: Minha Primeira Música Registrada
+
 **Autor(es):** [Tito Gonzales / Fabricia Silveira]  
 **Data de criação:** 25/09/2025
-
 
 (SFX: relay clicks, jar seal hiss, faint calliope)
 
@@ -608,4 +585,3 @@ Sandbox love--merge the branch and sign the note:
 
 (SFX: valve exhale, single "deploy successful" chime)
 **Brain:** Promotion complete. Monitoring feelings... all systems warm.
-

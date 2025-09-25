@@ -1,5 +1,5 @@
 # Heart Firewall (403 Forbidden)
-# Título: Minha Primeira Música Registrada
+
 **Autor(es):** [Tito Gonzales / Fabricia Silveira]  
 **Data de criação:** 25/09/2025
 
